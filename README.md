@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/Adya97?label=Follow&style=social" />
   </a>
   <a href="https://github.com/Adya97">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Nisal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
