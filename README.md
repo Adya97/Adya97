@@ -4,7 +4,7 @@
   <img src="[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png](https://github.com/Adya97/Adya97/blob/ae6ca8f0182acf25b6e2b2cbe16595cf3cd15a26/banner.jpg)" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from Berlin I work in leading cosmatic sector in Munich</h3>
+<h3 align="center">🚀 DevOps Engineer in Berlin | Powering the Cosmetic Industry in Munich</h3>
 
 <p align="center">
   <a href="https://github.com/Adya97">
@@ -24,6 +24,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Adya97](https://github.com/Adya97)  
 - 💬 Work in **DevOps & Cloud**  
 - 📫 How to reach me **avnisal@gmail.com**
+- Checkout my Portfolio **https://portfolio.adityanisal.com/** 
 
 ---
 
@@ -58,6 +59,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adya97&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adya97&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
