@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Nisal</h1>
 
 <div align="center">
-  <img src="[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png](https://github.com/Adya97/Adya97/blob/ae6ca8f0182acf25b6e2b2cbe16595cf3cd15a26/banner.jpg)" alt="DevOpsShack Banner">
+  <img src="https://github.com/Adya97/Adya97/blob/4da211d10480a07c53eba8715d3b8ed5d80dec48/banner.jpg" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">🚀 DevOps Engineer in Berlin | Powering the Cosmetic Industry in Munich</h3>
