@@ -4,7 +4,7 @@
   <img src="https://github.com/Adya97/Adya97/blob/20e019c1b32cb6e4b106e70f41b74ff5223b605d/new.jpg" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">🚀 DevOps Engineer in Berlin | Powering the Cosmetic Industry in Munich</h3>
+<h3 align="center">🚀 Software Engineer in Berlin | Powering the Cosmetic Industry in Munich</h3>
 
 <p align="center">
   <a href="https://github.com/Adya97">
